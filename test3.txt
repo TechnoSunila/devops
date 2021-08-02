@@ -1,2 +1,3 @@
 this is my first line of third file 
 updated
+this is my third line
