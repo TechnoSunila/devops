@@ -1,0 +1,4 @@
+1002,lalita,Mumbai
+1003,rani,Delhi
+1004,kedar,Goa
+1005,vijay,Pune
