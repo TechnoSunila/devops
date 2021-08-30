@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo "welcome to GIT SCM" 
+echo "welcome to GIT SCM"
+
+echo " Modified"
